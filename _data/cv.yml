@@ -2,38 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Cheng-Jun Wang
+      value: Wuchun Wang
     - name: Date of Birth
-      value: 26th May 1885
+      value: 4th Aprial 1885
     - name: Languages
       value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: City University of Hong Kong, Hong Kong, China
-      year: 2014
     - title: MA
-      institution: Peking University, Beijing, China
-      year: 2010
+      institution: Nanjing University,Nanjing，China
+      year: 2024-now
     - title: BA
-      institution: Lanzhou University, Lanzhou, China
-      year: 2008
+      institution: Nanjing Agriculture University, Nanjing, China
+      year: 2020-2024
 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Associate Professor 
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2017 - Now
-    - title: Assistant Research Fellow
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2014 - 2017
-    - title: Director
-      institution: Socrates Lab, Computational Communication Collaboratory, Nanjing University.
-      year: 2015 - Now
+
 
 - title: Academic Interests
   type: nested_list

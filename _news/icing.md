@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iching Python Package is alive now!
+title: I learn about "The iching Python Package is alive now!"
 date: 2023-10-07 16:11:00-0400
 inline: false
 related_posts: false
